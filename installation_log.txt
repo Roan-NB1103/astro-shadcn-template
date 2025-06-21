@@ -1,0 +1,14 @@
+## 2025/05/12 13:00
+Taniglowins-MacBook-Air:astro-shadcn-template tani_glowin$ npm install
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'astro-shadcn-template@0.0.1',
+npm warn EBADENGINE   required: { node: '>=20.9.0 <21.0.0', npm: '>=10.1.0' },
+npm warn EBADENGINE   current: { node: 'v22.14.0', npm: '11.2.0' }
+npm warn EBADENGINE }
+
+added 501 packages, and audited 502 packages in 1m
+
+161 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
